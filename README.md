@@ -51,17 +51,13 @@
     <a href="https://github.com/DevCheckOG"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="[https://github.com/Bouaskaoun](https://github.com/DevCheckOG)"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    <a href="[https://github.com/Bouaskaoun](https://github.com/DevCheckOG)"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="[https://github.com/Bouaskaoun](https://github.com/DevCheckOG)"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="[https://github.com/Bouaskaoun](https://github.com/DevCheckOG)"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="[https://github.com/Bouaskaoun](https://github.com/DevCheckOG)"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="[https://github.com/Bouaskaoun](https://github.com/DevCheckOG)"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="[https://github.com/DevCheckOG](https://github.com/DevCheckOG)"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
 
