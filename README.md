@@ -33,11 +33,13 @@
 ### 💻 Software y Herramientas
 
 <p>
+    <a href="https://github.com/DevCheckOG"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>	
     <a href="https://github.com/DevCheckOG"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="GNU BASH" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
 </p>
 </br>
 
@@ -56,9 +58,9 @@
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<a href="https://github.com/DevCheckOG">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devcheckog&show_icons=true" alt="devcheckog">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devcheckog" alt="devcheckog">
 	</a>
 	<br/>
 </p>
