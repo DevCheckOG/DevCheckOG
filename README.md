@@ -46,9 +46,8 @@
 ### 👨‍💻 Lenguajes de Programación
 
 <p>
-    <a href="https://github.com/DevCheckOG><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="Java" src="[https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 
 ### 💻 Software and Tools
 
