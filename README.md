@@ -1,5 +1,5 @@
 <h1 align="center">
-¡Hola, me llamo DevCheckOG!
+¡Hola, me llamo DevCheck!
 	<a href="https://github.com/DevCheckOG" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
