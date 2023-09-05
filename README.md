@@ -30,7 +30,7 @@
 </br>
 
 <br/>
-<summary><b>⚡ DevCheckOG Estadísticas</b></summary>
+<summary><b>⌨️ DevCheck Estadísticas</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/DevCheckOG">
