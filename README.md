@@ -41,7 +41,7 @@
 </p>
 <br/>
 
-<summary><b>⚡ Lenguajes que más uso en Github</b></summary>
+<summary><b>☕ Lenguajes que más uso en Github</b></summary>
 <br/>
 
 <p align="center">
