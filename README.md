@@ -46,7 +46,7 @@
 
 <p align="center">
 	<a href="https://github.com/DevCheckOG">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcheckog&langs_count=8&layout=compact" alt="devcheckog">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcheckog&langs_count=7&layout=compact" alt="devcheckog">
 	</a>
 	<br/>
 <br/>
