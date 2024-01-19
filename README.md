@@ -24,7 +24,8 @@
     <a href="https://github.com/DevCheckOG"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="GNU BASH" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="Netlify" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
 </br>
 
