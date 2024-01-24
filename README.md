@@ -34,6 +34,7 @@
 ### ⌨️ DevCheck Estadísticas
 
 <p align="center">
+	<br/>
 	<a href="https://github.com/DevCheckOG">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devcheckog&show_icons=true&theme=transparent&locale=es" alt="devcheckog">
 	<br/>
