@@ -47,13 +47,8 @@
 	<a href="https://github.com/DevCheckOG">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcheckog&langs_count=7&layout=compact&theme=transparent&locale=es" alt="devcheckog">
 	</a>
-	<br/>
-<br/>
-<b>
 </p>
 <br/>
 
 
-“ Knowledge is power that's why it becomes a master ".
-
-</table>
+### “ Knowledge is power that's why it becomes a master ".
