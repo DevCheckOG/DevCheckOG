@@ -31,9 +31,8 @@
 </p>
 </br>
 
-<br/>
 ### ⌨️ DevCheck Estadísticas
-<br/>
+
 <p align="center">
 	<a href="https://github.com/DevCheckOG">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devcheckog&show_icons=true&theme=transparent&locale=es" alt="devcheckog">
@@ -41,9 +40,8 @@
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=devcheckog&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D">
 	<br/>
 </p>
-<br/>
+
 ### ☕ Lenguajes de programación que más uso en Github:
-<br/>
 
 <p align="center">
 	<a href="https://github.com/DevCheckOG">
