@@ -56,8 +56,4 @@
 
 “ Knowledge is power that's why it becomes a master ".
 
-  </td>
-  </tr>
 </table>
-
-------
