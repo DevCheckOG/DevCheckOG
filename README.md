@@ -32,7 +32,7 @@
 </br>
 
 <br/>
-## ⌨️ DevCheck Estadísticas
+### ⌨️ DevCheck Estadísticas
 <br/>
 <p align="center">
 	<a href="https://github.com/DevCheckOG">
@@ -42,7 +42,7 @@
 	<br/>
 </p>
 <br/>
-## ☕ Lenguajes de programación que más uso en Github:
+### ☕ Lenguajes de programación que más uso en Github:
 <br/>
 
 <p align="center">
