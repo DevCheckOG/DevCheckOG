@@ -44,6 +44,7 @@
 ### ☕ Lenguajes de programación que más uso en Github:
 
 <p align="center">
+	<br/>
 	<a href="https://github.com/DevCheckOG">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcheckog&langs_count=7&layout=compact&theme=transparent&locale=es" alt="devcheckog">
 	</a>
