@@ -38,7 +38,7 @@
 	<a href="https://github.com/DevCheckOG">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devcheckog&show_icons=true&theme=transparent&locale=es" alt="devcheckog">
 	<br/>
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devcheckog&theme=transparent&locale=es&date_format=M%20j%5B%2C%20Y%5D&type=png">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devcheckog&theme=transparent&locale=es&type=png">
 	<br/>
 </p>
 
