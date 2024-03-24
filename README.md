@@ -31,6 +31,7 @@
     <a href="https://github.com/DevCheckOG"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>	
     <a href="https://github.com/DevCheckOG"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>	
 <a href="https://github.com/DevCheckOG"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Aiohttp" src="https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white"></a>
 </p>
 </br>
 
