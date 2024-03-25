@@ -1,5 +1,5 @@
 <h1 align="center">
-¡Hola, me llamo DevCheck!
+¡Hola, me llamo Kevin Benavides!
 	<a href="https://github.com/DevCheckOG" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -36,7 +36,7 @@
 </p>
 </br>
 
-### ⌨️ DevCheck Estadísticas
+### ⌨️ Mis Estadísticas
 
 <p align="center">
 	<br/>
