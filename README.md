@@ -38,6 +38,13 @@
 </p>
 </br>
 
+### 📖 En actual estudio
+
+<p>
+   <a href="https://github.com/DevCheckOG"><img alt="C#" src="https://a11ybadges.com/badge?logo=csharp"></a>
+   <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
+</p>
+
 ### ⌨️ Mis Estadísticas
 
 <p align="center">
