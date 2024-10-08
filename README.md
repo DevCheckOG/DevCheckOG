@@ -36,7 +36,6 @@
     <a href="https://github.com/DevCheckOG"><img alt="Aiohttp" src="https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"></a>
 </p>
-</br>
 
 ### 📖 En actual estudio
 
