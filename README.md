@@ -87,4 +87,6 @@ fn main() {
 
 <br/>
 
+https://github.com/Thrush-Lang
+
 **“ Knowledge is power that's why it becomes a master ".** **~** At some place *Kevin Benavides*.
