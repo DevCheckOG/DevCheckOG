@@ -63,5 +63,14 @@
 </p>
 <br/>
 
+# ⚒️ Principales Proyectos
+
+## 🪽 Thrush Programming Language
+
+<p align="center">
+  <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 2hv; height: 2hv;"> </img>
+</p>
+
+A General Purpose Programming Language, with characteristics as Statically Typed and Compiled to emit optimal binaries, the language is builded on top LLVM Toolchain.
 
 **“ Knowledge is power that's why it becomes a master ".** **~** At some place *Kevin Benavides*.
