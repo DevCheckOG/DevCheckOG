@@ -73,4 +73,16 @@
 
 A **General Purpose Programming Language**, with characteristics as **Statically Typed** and **Compiled** to emit optimal binaries, the language is **builded on top LLVM Toolchain**.
 
+> thrushc compile --build main.th && ./main
+
+```
+fn main() {
+
+    var hello: string = "Hello World!";
+
+    println("%s", hello);
+
+}
+```
+
 **“ Knowledge is power that's why it becomes a master ".** **~** At some place *Kevin Benavides*.
