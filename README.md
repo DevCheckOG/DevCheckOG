@@ -85,8 +85,8 @@ fn main() {
 }
 ```
 
-<br/>
+<h1>https://github.com/Thrush-Lang</h1>
 
-https://github.com/Thrush-Lang
+<br/>
 
 **“ Knowledge is power that's why it becomes a master ".** **~** At some place *Kevin Benavides*.
