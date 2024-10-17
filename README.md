@@ -85,7 +85,7 @@ fn main() {
 }
 ```
 
-<h3>https://github.com/Thrush-Lang</h3>
+<h3 align="center">https://github.com/Thrush-Lang</h3>
 
 <br/>
 
