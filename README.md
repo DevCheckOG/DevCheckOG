@@ -63,9 +63,7 @@
 </p>
 <br/>
 
-<p align="center">
-	<⚒️ Principales Proyectos
-</p>
+<h1 align= "center">⚒️ Principales Proyectos</h1>
 
 ## 🪽 Thrush Programming Language
 
