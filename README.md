@@ -13,6 +13,7 @@
     <a href="https://github.com/DevCheckOG"><img alt="Python" src="https://a11ybadges.com/badge?logo=python"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Java" src="https://a11ybadges.com/badge?logo=java"></a>
     <a href="https://github.com/DevCheckOG"><img alt="LLVM" src="https://a11ybadges.com/badge?logo=llvm"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
 
