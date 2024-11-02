@@ -9,6 +9,7 @@
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="C" src="https://a11ybadges.com/badge?logo=c"></a>	
     <a href="https://github.com/DevCheckOG"><img alt="Python" src="https://a11ybadges.com/badge?logo=python"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Java" src="https://a11ybadges.com/badge?logo=java"></a>
     <a href="https://github.com/DevCheckOG"><img alt="LLVM" src="https://a11ybadges.com/badge?logo=llvm"></a>
