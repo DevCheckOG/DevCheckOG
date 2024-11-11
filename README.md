@@ -46,6 +46,10 @@
    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
 </p>
 
+<p align="center">
+	Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio lenguaje de programación y un futuro Kernel, no va poder escribir un código para un BackEnd de tu empresa.
+</p>
+
 ### ⌨️ Mis Estadísticas
 
 <p align="center">
@@ -54,11 +58,6 @@
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devcheckog&show_icons=true&theme=transparent&locale=es" alt="devcheckog">
 	<br/>
 </p>
-
-<p align="center">
-	Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio lenguaje de programación y un futuro Kernel, no va poder escribir un código para un BackEnd de tu empresa.
-</p>
-
 
 ### ☕ Lenguajes de programación que más uso en Github:
 
