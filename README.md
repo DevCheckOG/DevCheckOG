@@ -73,7 +73,7 @@
   <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
-A **General Purpose Programming Language**, with characteristics as **Statically Typed** and **Compiled** to emit optimal binaries, the language is **builded on top LLVM Toolchain**.
+**Thrush Lang**, the which is a General Purpose Programming Language, with characteristics as **Statically Typed**, **Compiled** and **Memory Safety** to emit optimal static binaries for each Architecture. Builded with **[LLVM](https://llvm.org/)** Compiler Tools.
 
 > thrushc compile --build main.th && ./main
 
