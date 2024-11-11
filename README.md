@@ -57,8 +57,6 @@
 	<br/>
 </p>
 
-### Lenguajes de programación que más uso en Github:
-
 <p align="center">
 	<br/>
 	<a href="https://github.com/DevCheckOG">
