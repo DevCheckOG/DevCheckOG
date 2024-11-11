@@ -55,6 +55,11 @@
 	<br/>
 </p>
 
+<p align="center">
+	Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio lenguaje de programación y un futuro Kernel, no va poder escribir un código para un BackEnd de tu empresa.
+</p>
+
+
 ### ☕ Lenguajes de programación que más uso en Github:
 
 <p align="center">
