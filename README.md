@@ -17,7 +17,7 @@
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
 
-### 💻 Software & Herramientas
+### Software & Herramientas
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>	
