@@ -5,7 +5,7 @@
 	</a>
 </h1>
 
-" Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio **lenguaje de programación** y un futuro **Kernel**, no va poder escribir un código correctamente para tu simple app o sistema. Piensa sobre ello."
+" Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio **lenguaje de programación** y un futuro **Kernel**, no va poder escribir un código correctamente para tu simple app o sistema. Piensa sobre ello. "
 
 ### Lenguajes de Programación & otros
 
