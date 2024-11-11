@@ -41,7 +41,7 @@
     <a href="https://github.com/DevCheckOG"><img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"></a>
 </p>
 
-### Estudio
+### Estudiando
 
 <p>
    <a href="https://github.com/DevCheckOG"><img alt="C#" src="https://a11ybadges.com/badge?logo=csharp"></a>
