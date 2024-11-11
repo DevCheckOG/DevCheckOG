@@ -5,7 +5,7 @@
 	</a>
 </h1>
 
-### 👨‍💻 Lenguajes de Programación & otros
+### Lenguajes de Programación & otros
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
