@@ -67,7 +67,7 @@
 
 <h1 align= "center">Principales Proyectos</h1>
 <br/>
-<h1 align= "center">Thrush Programming Language</h1>
+<h2 align= "center">Thrush Programming Language</h2>
 
 <p align="center">
   <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
