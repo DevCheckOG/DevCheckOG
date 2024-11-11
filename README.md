@@ -48,7 +48,7 @@
    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
 </p>
 
-<h3 align="center">Estadísticas</h3>
+<h2 align="center">Estadísticas</h3>
 
 <p align="center">
 	<br/>
