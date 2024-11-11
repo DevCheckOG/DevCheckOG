@@ -5,6 +5,9 @@
 	</a>
 </h1>
 
+
+### " Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio lenguaje de programación y un futuro Kernel, no va poder escribir un código correctamente para tu simple app o sistema. Piensa sobre ello."
+
 ### Lenguajes de Programación & otros
 
 <p>
@@ -44,10 +47,6 @@
 <p>
    <a href="https://github.com/DevCheckOG"><img alt="C#" src="https://a11ybadges.com/badge?logo=csharp"></a>
    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
-</p>
-
-<p align="center">
-	Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio lenguaje de programación y un futuro Kernel, no va poder escribir un código correctamente para tu simple app o sistema. Piensa sobre ello.
 </p>
 
 ### ⌨️ Mis Estadísticas
