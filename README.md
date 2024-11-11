@@ -41,14 +41,14 @@
     <a href="https://github.com/DevCheckOG"><img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"></a>
 </p>
 
-### En actual estudio
+### Estudio
 
 <p>
    <a href="https://github.com/DevCheckOG"><img alt="C#" src="https://a11ybadges.com/badge?logo=csharp"></a>
    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
 </p>
 
-### ⌨️ Mis Estadísticas
+### Estadísticas
 
 <p align="center">
 	<br/>
@@ -57,7 +57,7 @@
 	<br/>
 </p>
 
-### ☕ Lenguajes de programación que más uso en Github:
+### Lenguajes de programación que más uso en Github:
 
 <p align="center">
 	<br/>
@@ -67,9 +67,9 @@
 </p>
 <br/>
 
-<h1 align= "center">⚒️ Principales Proyectos</h1>
+<h1 align= "center">Principales Proyectos</h1>
 <br/>
-<h1 align= "center">🦅 Thrush Programming Language</h1>
+<h1 align= "center">Thrush Programming Language</h1>
 
 <p align="center">
   <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
@@ -92,5 +92,3 @@ fn main() {
 <h3 align="center">https://github.com/Thrush-Lang</h3>
 
 <br/>
-
-**“ Anywhere you show the level of how you express yourself ".**
