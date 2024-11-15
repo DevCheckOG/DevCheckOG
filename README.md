@@ -11,6 +11,8 @@ In addition to that, I have a strong knowledge of operating systems such as Linu
 
 I enjoy building good, free software for people. In my free time I like to program **Compilers** and **Interpreters** for my projects.
 
+--------------------------------------------
+
 ### Programming Languages
 
 <p>
@@ -22,6 +24,8 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
+
+--------------------------------------------
 
 ### Software & Tools
 
@@ -44,6 +48,8 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="Aiohttp" src="https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"></a>
 </p>
+
+--------------------------------------------
 
 ### Currently studying
 
