@@ -1,13 +1,17 @@
 <h1 align="center">
-¡Hola, soy Kevin Benavides!
+Hello, I'm Kevin Benavides!
 	<a href="https://github.com/DevCheckOG" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 
-" Sí eres una empresa viendo esto piensa sobre de que alguien que construye su propio **lenguaje de programación** y un futuro **Kernel**, no va poder escribir un código correctamente para tu simple app o sistema. Piensa sobre ello. "
+I program and know several programming languages ​​such as `Rust`, `C`, `LLVM`, `Python`, `Java`, `JavaScript`, which allows me not to have any problem learning a new programming language.
 
-### Lenguajes de Programación & otros
+In addition to that, I have a strong knowledge of operating systems such as Linux, knowing all the utilities it provides. I also know databases like MySQL and MongoDB.
+
+I enjoy building good, free software for people. In my free time I like to program **Compilers** and **Interpreters** for my projects.
+
+### Programming Languages
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
@@ -41,7 +45,7 @@
     <a href="https://github.com/DevCheckOG"><img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"></a>
 </p>
 
-### Estudiando
+### Currently studying
 
 <p>
    <a href="https://github.com/DevCheckOG"><img alt="C#" src="https://a11ybadges.com/badge?logo=csharp"></a>
@@ -65,7 +69,7 @@
 </p>
 <br/>
 
-<h1 align= "center">Principales Proyectos</h1>
+<h1 align= "center">Main Projects</h1>
 <br/>
 <h2 align= "center">Thrush Programming Language</h2>
 
@@ -73,7 +77,7 @@
   <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
-**Thrush Lang**, the which is a General Purpose Programming Language, with characteristics as **Statically Typed**, **Compiled** and **Memory Safety** to emit optimal static binaries for each architecture. Built with **[LLVM](https://llvm.org/)** Compiler Tools.
+**Thrush Programming Language** is **Statically Typed**, **Compiled**, **High Level**, **Memory Safety** Programming Language to emit optimal static binaries for each architecture. Built with **[LLVM](https://llvm.org/)** Compiler Tools.
 
 > thrushc --executable --static main.th && ./main
 
@@ -88,5 +92,4 @@ fn main() {
 ```
 
 <h3 align="center">https://github.com/Thrush-Lang</h3>
-
 <br/>
