@@ -67,7 +67,7 @@ I enjoy building good, free software for people. In my free time I like to progr
    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
 </p>
 
-<h2 align="center">Estadísticas</h2>
+<h2 align="center">Statistics</h2>
 
 <p align="center">
 	<br/>
