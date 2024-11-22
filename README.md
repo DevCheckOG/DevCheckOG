@@ -13,7 +13,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 --------------------------------------------
 
-### Programming Languages
+### Programming Languages and non Programming Languages
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
