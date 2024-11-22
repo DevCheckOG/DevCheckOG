@@ -5,7 +5,7 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
-I program and know several programming languages ​​such as `Rust`, `C`, `LLVM`, `Python`, `Java`, `JavaScript`, which allows me not to have any problem learning a new programming language.
+I program and know several programming languages ​​such as `Rust`, `C`, `LLVM IR`, `Python`, `Java`, `JavaScript`, which allows me not to have any problem learning a new programming language.
 
 In addition to that, I have a strong knowledge of operating systems such as Linux, knowing all the utilities it provides. I also know databases like MySQL and MongoDB.
 
