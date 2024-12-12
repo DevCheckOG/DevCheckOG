@@ -63,6 +63,7 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="PyTest" src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"></a>
 </p>
 
 --------------------------------------------
