@@ -102,7 +102,7 @@ I enjoy building good, free software for people. In my free time I like to progr
   <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
-**Thrush Programming Language** is **Statically Typed**, **Compiled**, **High Level**, **Memory Safety** Programming Language to emit optimal static binaries for each architecture. Built with **[LLVM](https://llvm.org/)** Compiler Tools.
+**Thrush Programming Language** is **Strongly Typed**, **Compiled**, **High Level**, **Memory Safety** Programming Language to emit optimal static binaries for each architecture. Built with **[LLVM](https://llvm.org/)** Compiler Tools.
 
 > thrushc --executable --static main.th && ./main
 
