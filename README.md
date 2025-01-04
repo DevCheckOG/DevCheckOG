@@ -104,14 +104,14 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 **Thrush Programming Language** is **Strongly Typed**, **Compiled**, **High Level**, **Memory Safety** Programming Language to emit optimal static binaries for each architecture. Built with **[LLVM](https://llvm.org/)** Compiler Tools.
 
-> thrushc --executable --static --args "!(debug.th, vector.th)debug.o;!(debug.th, vector.th)vector.o" main.th -o main && ./main
+> thrushc --executable main.th -o main && ./main
 
 ```
 fn main() {
 
     var hello: string = "Hello World!";
 
-    println("%s", hello);
+    println("{}", hello);
 
 }
 ```
