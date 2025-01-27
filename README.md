@@ -27,6 +27,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
+    <br>
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
 </p>
