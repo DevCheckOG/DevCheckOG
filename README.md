@@ -30,6 +30,7 @@ I enjoy building good, free software for people. In my free time I like to progr
     <br>
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 </p>
 
 ### BackEnd Languages/Technologies
@@ -72,10 +73,15 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 --------------------------------------------
 
-### Software & Tools
+## Operating Systems
 
 <p>
-    <a href="https://github.com/DevCheckOG"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>	
+  <a href="https://github.com/DevCheckOG"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>	
+</p>
+
+## Tools
+
+<p>
     <a href="https://github.com/DevCheckOG"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -95,7 +101,6 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="Pypy" src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"></a>
     <a href="https://github.com/DevCheckOG"><img alt="The Onion Routing" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 </p>
 
 --------------------------------------------
