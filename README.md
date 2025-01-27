@@ -23,7 +23,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 ## Web/App Development
 
-### FrontEnd Technologies
+### FrontEnd Languages/Technologies
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
