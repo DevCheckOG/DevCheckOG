@@ -49,12 +49,15 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Aiohttp" src="https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"></a>	
+    <a href="https://github.com/DevCheckOG"><img alt="DenoJS" src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white"></a>	
     <a href="https://github.com/DevCheckOG"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>	
+    <a href="https://github.com/DevCheckOG"><img alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>	 
     <a href="https://github.com/DevCheckOG"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Firabase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>	
     <a href="https://github.com/DevCheckOG"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>	
 </p>
+    <a href="https://github.com/DevCheckOG"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>	
 
 ### Databases
 
