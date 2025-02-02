@@ -13,7 +13,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 --------------------------------------------
 
-## Systems/Compilers Development
+## Critical Systems/Compilers Development
 
 <p>
    <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
