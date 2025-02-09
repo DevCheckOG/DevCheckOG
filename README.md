@@ -130,7 +130,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 </p>
 <br/>
 
-## Main Projects
+# Main Projects
 <br/>
 <h2 align= "center">Thrush Programming Language</h2>
 
@@ -150,7 +150,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 - Faster as C.
 - Native compiled.
 
-> thrushc --executable main.th -o main && ./main
+> thrushc --executable hello.th -o hello && ./output/hello
 
 ```
 public @extern("printf") fn print(fmt :: String, ...): i32;
