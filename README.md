@@ -113,24 +113,8 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 --------------------------------------------
 
-<h2 align="center">Statistics</h2>
+<h1 align="center">Main Projects</h1>
 
-<p align="center">
-	<br/>
-	<a href="https://github.com/DevCheckOG">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devcheckog&show_icons=true&theme=transparent&locale=es" alt="devcheckog">
-	<br/>
-</p>
-
-<p align="center">
-	<br/>
-	<a href="https://github.com/DevCheckOG">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcheckog&langs_count=7&layout=compact&theme=transparent&locale=es" alt="devcheckog">
-	</a>
-</p>
-<br/>
-
-# Main Projects
 <br/>
 <h2 align= "center">Thrush Programming Language</h2>
 
