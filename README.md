@@ -126,6 +126,8 @@ I enjoy building good, free software for people. In my free time I like to progr
 - Non implicit cast for primitive types.
 - Strongly statically typed.
 - Strongly in POO paradigm.
+- Automatic memory management.
+- Native and embedded data structures, as vectors.
 - Minimal runtime; is equal so tiny executables.
 - Faster as C.
 - Native compiled.
