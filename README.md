@@ -130,24 +130,34 @@ I enjoy building good, free software for people. In my free time I like to progr
 </p>
 <br/>
 
-<h1 align= "center">Main Projects</h1>
+## Main Projects
 <br/>
 <h2 align= "center">Thrush Programming Language</h2>
 
 <p align="center">
-  <img src= "https://github.com/Thrush-Lang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
+  <img src= "https://github.com/thrushlang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
-**Thrush Programming Language** is **Strongly Typed**, **Compiled**, **General Purpose** Programming Language to emit optimal static binaries for each architecture. Built with **[LLVM](https://llvm.org/)** Compiler Tools.
+**Thrush Programming Language** is strongly statically typed, AOT native compiled, highly optimized, general-purpose programming language to build maintainable software.
+
+## Features 
+
+- High level abstraction.
+- Non implicit cast for primitive types.
+- Strongly statically typed.
+- Strongly in POO paradigm.
+- Minimal runtime; is equal so tiny executables.
+- Faster as C.
+- Native compiled.
 
 > thrushc --executable main.th -o main && ./main
 
 ```
+public @extern("printf") fn print(fmt :: String, ...): i32;
+
 fn main() {
 
-    var hello: string = "Hello World!";
-
-    println("{}", hello);
+    print("Hello World!")
 
 }
 ```
