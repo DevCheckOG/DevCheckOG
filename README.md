@@ -115,7 +115,6 @@ I enjoy building good, free software for people. In my free time I like to progr
 
 <h1 align="center">Main Projects</h1>
 
-<br/>
 <h2 align= "center">Thrush Programming Language</h2>
 
 <p align="center">
