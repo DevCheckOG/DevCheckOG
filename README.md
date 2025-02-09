@@ -75,9 +75,6 @@ I enjoy building good, free software for people. In my free time I like to progr
    <a href="https://github.com/DevCheckOG"><img alt="PyTest" src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"></a>
 </p>
 
-
---------------------------------------------
-
 ## Operating Systems
 
 <p>
