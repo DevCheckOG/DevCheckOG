@@ -40,7 +40,7 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="Python" src="https://a11ybadges.com/badge?logo=python"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Java" src="https://a11ybadges.com/badge?logo=java"></a>
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
     <br>		
     <a href="https://github.com/DevCheckOG"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"></a>
