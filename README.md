@@ -21,9 +21,9 @@ I enjoy building good, free software for people. In my free time I like to progr
    <a href="https://github.com/DevCheckOG"><img alt="LLVM" src="https://a11ybadges.com/badge?logo=llvm"></a>
 </p>
 
-## Web/App Development
+## Web/App/APIs Development
 
-### FrontEnd Languages/Technologies
+### Frontend Languages/Technologies
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
@@ -33,7 +33,7 @@ I enjoy building good, free software for people. In my free time I like to progr
     <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 </p>
 
-### BackEnd Languages/Technologies
+### Backend Languages/Technologies
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>		
