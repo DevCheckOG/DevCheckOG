@@ -134,7 +134,7 @@ I enjoy building good, free software for people. In my free time I like to progr
 > thrushc --executable hello.th -o hello && ./output/hello
 
 ```
-public @extern("printf") fn print(fmt :: String, ...): i32;
+public @extern("printf") fn print(fmt :: str, ...): i32;
 
 fn main() {
 
