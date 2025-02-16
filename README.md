@@ -7,8 +7,6 @@ Hello, I'm Kevin Benavides!
 
 Hello! I am **Kevin Benavides**. I am a programmer focused on the **development, design, and scalability of web/apps/APIs** and the **design and construction of compilers** for dialects or programming languages ​such as **C**, **Rust**, or C++ with **LLVM** or **QBE**.
 
-I apply for areas such as the development of compilers and programming languages, such as backend development for different types of web/apps or APIs.
-
 On the other hand, I speak languages, such as Spanish (native) and English (B2), corresponding to the **CEFR**. I am very determined when there are pending tasks to do, in addition to being patient and a good conversationalist with people.
 
 Some information about it is that I started in the world of programming more than 6 years ago. My first project was a bash script on the Ubuntu distro. On the other hand, I am currently developing my programming language powered by **LLVM**, such as Swift, Rust, and many other modern languages. As my first project in that language, I want to make a prototype of a kernel in real-time.
