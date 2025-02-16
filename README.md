@@ -5,7 +5,7 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
-Hello! I am **Kevin Benavides**. I am a programmer focused on the development, design, and scalability of web/apps/APIs and the design and construction of compilers for dialects or programming languages ​such as **C**, **Rust**, or C++ with **LLVM** or **QBE**.
+Hello! I am **Kevin Benavides**. I am a programmer focused on the **development, design, and scalability of web/apps/APIs** and the **design and construction of compilers** for dialects or programming languages ​such as **C**, **Rust**, or C++ with **LLVM** or **QBE**.
 
 I apply for areas such as the development of compilers and programming languages, such as backend development for different types of web/apps or APIs.
 
