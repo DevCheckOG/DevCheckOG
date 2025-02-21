@@ -122,12 +122,12 @@ Some information about it is that I started in the world of programming more tha
 ## Features 
 
 - High level abstraction.
-- Non implicit cast for primitive types.
+- Non-explicit cast for primitive types.
 - Strongly statically typed.
-- Strongly in POO paradigm.
+- Strongly in OOP paradigm.
 - Automatic memory management.
-- Native and embedded data structures, as vectors.
-- Minimal runtime; is equal so tiny executables.
+- Partial memory safety.
+- Minimal runtime structure; is equal so tiny executables.
 - Faster as C.
 - Native compiled.
 
