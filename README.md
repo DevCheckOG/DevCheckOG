@@ -19,6 +19,7 @@ Some information about it is that I started in the world of programming more tha
    <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
    <a href="https://github.com/DevCheckOG"><img alt="C" src="https://a11ybadges.com/badge?logo=c"></a>	
    <a href="https://github.com/DevCheckOG"><img alt="LLVM" src="https://a11ybadges.com/badge?logo=llvm"></a>
+   <a href="https://github.com/DevCheckOG"><img alt="GCC" src="https://a11ybadges.com/badge?logo=gnu&text=GCC&badgeColor=262D3A"></a>
 </p>
 
 ## Web/App/APIs Development
