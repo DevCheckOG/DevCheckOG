@@ -13,7 +13,7 @@ My first project was a bash script in the Ubuntu distribution.
 
 On the other hand, I am currently developing my own programming language powered by **[LLVM](https://llvm.org/)** and **[Q#](https://learn.microsoft.com/en-us/azure/quantum/)** for traditional and quantum programming.
 
-Everything you will see in this place is entirely studied in a completely self-taught way.
+**Everything you will see in this place is entirely studied in a completely self-taught way.**
 
 --------------------------------------------
 
