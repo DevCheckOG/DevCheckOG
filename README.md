@@ -133,6 +133,10 @@ On the other hand, I am currently developing my programming language powered by 
 - Faster as C.
 - Native compiled.
 
+## Shiny Features
+
+- Support for quantum programming for quantum machines using Q# as a backend compiler.
+
 > thrushc --executable hello.th -o hello && ./output/hello
 
 ```
