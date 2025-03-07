@@ -9,7 +9,9 @@ Hello! I am Kevin Benavides. I am a programmer focused on the **development, des
 
 On the other hand, I speak languages, such as Spanish (**native**) and English (**B2**), corresponding to the CEFR. I am very determined when there are pending tasks to do, in addition to being patient and a good conversationalist with people.
 Some facts about this are that I started in the world of programming more than **6** years ago.
-My first project was a bash script in the Ubuntu distribution. On the other hand, I am currently developing my own programming language powered by LLVM and Q# for traditional and quantum programming.
+My first project was a bash script in the Ubuntu distribution. 
+
+On the other hand, I am currently developing my own programming language powered by **[LLVM](https://llvm.org/)** and **[Q#](https://learn.microsoft.com/en-us/azure/quantum/)** for traditional and quantum programming.
 
 Everything you will see in this place is entirely studied in a completely self-taught way.
 
