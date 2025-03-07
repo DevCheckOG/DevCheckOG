@@ -5,7 +5,7 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
-Hello! I am Kevin Benavides. I am a programmer focused on the **development, design, and scalability of web/apps/APIs** and the **design and construction of compilers for dialects or programming languages** ​​such as C, Rust, or C++ with LLVM, QBE, or GCC. I apply for areas such as the development of compilers and programming languages, such as backend development for different types of web/apps or APIs. 
+Hello! I am Kevin Benavides. I am a programmer focused on the **development, design, and scalability of web/apps/APIs** and the **design and construction of compilers for dialects or programming languages** ​​such as C, Rust, or C++ with LLVM, **[QBE](https://c9x.me/compile/)**, or GCC. I apply for areas such as the development of compilers and programming languages, such as backend development for different types of web/apps or APIs. 
 
 On the other hand, I speak languages, such as Spanish (**native**) and English (**B2**), corresponding to the CEFR. I am very determined when there are pending tasks to do, in addition to being patient and a good conversationalist with people.
 Some facts about this are that I started in the world of programming more than **6** years ago.
