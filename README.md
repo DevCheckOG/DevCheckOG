@@ -119,7 +119,7 @@ On the other hand, I am currently developing my own programming language powered
 <h2 align= "center">Thrush Programming Language</h2>
 
 <p align="center">
-  <img src= "https://github.com/thrushlang/.github/blob/main/assets/Thrush.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
+  <img src= "https://github.com/thrushlang/.github/blob/main/assets/thrushlang-v1.0.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
 **Thrush Programming Language** is strongly statically typed, AOT native compiled, highly optimized, general-purpose programming language to build maintainable software.
