@@ -143,6 +143,7 @@ The **Thrush Programming Language**. A programming language dedicated to creatin
 ## Powered by LLVM & Quantum Q# Backend
 
 - With LLVM as the main code generator, GCC planned for the future makes it possible for Thrush to compete with languages like Rust, Swift, Odin, and Jai in its league in the bright future.
+  
 - The Quantum Q# backend is used only when the quantum programming language is enabled; compile or interpret it for quantum machines using qubits.
 
 ## Compilation steps
