@@ -165,7 +165,7 @@ fn main() {
 
     for local i: i64 = 0; a < 100; a++; {
 
-        print("%ld %s", i, "Hello World!")
+        print("%ld %s", i, "Hello World!");
   
     } 
 
