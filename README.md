@@ -163,7 +163,7 @@ public @extern("printf") fn print(fmt :: str, ...): i32;
 
 fn main() {
 
-    for local i: i64 = 0; a < 100; a++; {
+    for local i: s64 = 0; a < 100; a++; {
 
         print("%ld %s", i, "Hello World!");
   
