@@ -159,7 +159,7 @@ thorium run
 ```
 
 ```
-public @extern("printf") fn print(fmt :: str, ...): i32;
+public @extern("printf") fn print(fmt :: str, ...): s32;
 
 fn main() {
 
