@@ -159,15 +159,26 @@ thorium run
 ```
 
 ```
-public @extern("printf") fn print(fmt :: str, ...): s32;
+fn print(fmt :: str) s32 @public @ignore @extern("printf");
 
-fn main() {
+fn fibonacci(n :: u64) u64 {
 
-    for local i: s64 = 0; a < 100; a++; {
+    if n <= 1 {
+        return n;
+    }
 
-        print("%ld %s", i, "Hello World!");
-  
-    } 
+    local fib_left: u64 = fibonacci(n - 1);
+    local fib_right: u64 = fibonacci(n - 2);
+
+    return fib_left + fib_right;
+
+}
+
+fn main() { 
+
+    local fib: u64 = fibonacci(10);
+
+    print("'10' fibonacci: %ld", fib);
 
 }
 ```
