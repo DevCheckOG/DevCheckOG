@@ -161,7 +161,7 @@ thorium run
 ```
 fn print(fmt :: str) s32 @public @ignore @extern("printf");
 
-fn fibonacci(n :: u64) u64 {
+fn fibonacci(n :: u64) u64 @alwaysinline @strongstack @hot {
 
     if n <= 1 {
         return n;
