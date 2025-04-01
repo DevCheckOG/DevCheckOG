@@ -167,18 +167,17 @@ fn fibonacci(n :: u64) u64 @alwaysinline @strongstack @hot {
         return n;
     }
 
-    local fib_left: u64 = fibonacci(n - 1);
-    local fib_right: u64 = fibonacci(n - 2);
-
-    return fib_left + fib_right;
+    return fibonacci(n - 2) + fibonacci(n - 1);
 
 }
 
 fn main() { 
 
-    local fib: u64 = fibonacci(10);
+    for local i: u64 = 0; i < 10; i++; {
 
-    print("'10' fibonacci: %ld", fib);
+        print("fibonacci of '%ld': %ld\n", i, fibonacci(i));
+
+    }
 
 }
 ```
