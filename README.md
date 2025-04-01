@@ -138,25 +138,29 @@ The **Thrush Programming Language**. A programming language dedicated to creatin
 
 ## Shiny Features
 
-- Support for quantum programming for quantum machines using qubits.
+- Support for quantum programming for quantum machines using Q# underhood.
 
-## Powered by LLVM & Quantum Q# Backend
+## LLVM
 
-- With LLVM as the main code generator, GCC planned for the future makes it possible for Thrush to compete with languages like Rust, Swift, Odin, and Jai in its league in the bright future.
-  
-- The Quantum Q# backend is used only when the quantum programming language is enabled; compile or interpret it for quantum machines using qubits.
+The **Thrush Programming Language** compiles using the **[LLVM](https://llvm.org)** project as its primary code generator, which is a backend compiler. It generally compiles bytecode or intermediate languages to assembler or machine code for the 45 different architectures and variants available. 
 
-## Compilation steps
+Thrush compiles AOT to LLVM bitcode, which is then compiled to optimized machine code, functioning similarly to Rust and Swift.
 
-*With the compiler (thrushc)...*
+## Example - Fibonacci sequence 
+
+### Compiler
+
 ```console
 thrushc fibonacci.th -o fibonacci && ./fibonacci
 ```
 
-*With the package manager...* (**Coming soon**)
+### Package Manager
+
 ```console
 thorium run
 ```
+
+### Code
 
 ```
 fn print(fmt :: str) s32 @public @ignore @extern("printf");
@@ -181,6 +185,5 @@ fn main() {
 
 }
 ```
-
 <h3 align="center">https://github.com/thrushlang</h3>
 <br/>
