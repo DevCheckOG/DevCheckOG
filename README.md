@@ -123,6 +123,21 @@ On the other hand, I am currently developing my own programming language powered
 
 The **Thrush Programming Language**. A programming language dedicated to creating maintainable and modular software.
 
+## Philosophy
+
+The Thrush Programming Language aims to simplify the inherently tedious process of programming in a systems language, streamlining the experience while maintaining the essence of a proper systems language.
+
+Introducing concepts such as:
+
+- Memory safety.
+- Simple error handling.
+- Strong Foreign Function Interface (FFI).
+- Simplified low-level memory control.
+- Compile-time execution with Just-In-Time compiler.
+- Automatic deallocation when reaching EFC.
+- Automatic construction of destructors.
+- Reference and hidden dereference systems.
+
 ## Features 
 
 - High level abstraction.
@@ -132,19 +147,10 @@ The **Thrush Programming Language**. A programming language dedicated to creatin
 - Automatic memory management.
 - Partial memory safety.
 - Ahead of time compilation.
+- Just in time compilation.
 - Faster compilation times.
 - Faster as C.
 - Compiled to machine code.
-
-## Shiny Features
-
-- Support for quantum programming for quantum machines using Q# underhood.
-
-## LLVM
-
-The **Thrush Programming Language** compiles using the **[LLVM](https://llvm.org)** project as its primary code generator, which is a backend compiler. It generally compiles bytecode or intermediate languages to assembler or machine code for the 45 different architectures and variants available. 
-
-Thrush compiles AOT to LLVM bitcode, which is then compiled to optimized machine code, functioning similarly to Rust and Swift.
 
 ## Example - Fibonacci sequence 
 
