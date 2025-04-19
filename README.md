@@ -191,5 +191,5 @@ fn main() {
 
 }
 ```
-<h3 align="center">https://github.com/thrushlang</h3>
+<h2 align="center">https://github.com/thrushlang</h2>
 <br/>
