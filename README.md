@@ -118,7 +118,7 @@ On the other hand, I am currently developing my own programming language powered
 <h2 align= "center">Thrush Programming Language</h2>
 
 <p align="center">
-  <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.4.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
+  <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
 The **Thrush Programming Language**. A programming language dedicated to creating maintainable and modular software.
