@@ -169,7 +169,7 @@ thorium run
 ### Code
 
 ```
-fn print(fmt :: str) s32 @public @ignore @extern("printf");
+fn print(fmt :: ptr) s32 @public @ignore @extern("printf");
 
 fn fibonacci(n :: u64) u64 @alwaysinline @strongstack @hot {
 
@@ -185,7 +185,10 @@ fn main() {
 
     for local i: u64 = 0; i < 10; i++; {
 
-        print("fibonacci of '%ld': %ld\n", i, fibonacci(i));
+        local format: str = "fibonacci of '%ld': %ld\n";
+
+        // Explicit pointer arithmetic.
+        print(carry[ptr] address format[0][0], i, fibonacci(i));
 
     }
 
