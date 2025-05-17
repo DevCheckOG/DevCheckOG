@@ -121,17 +121,22 @@ On the other hand, I am currently developing my own programming language powered
   <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
+
 The **Thrush Programming Language**. A programming language dedicated to creating highly adaptable software.
 
 ## Philosophy
 
 ### The breach
 
-There's a breach right now, and that's the fact that there's no memory-safe language focused on systems development that also offers beginner-friendly capabilities and a language environment. Thrush attempts to bridge this breach.
+There's currently a breach: there's no memory-safe language focused on systems development that also offers easy-to-use features and a language environment. 
+For example:
+
+- ``Rust`` Complexity is inherited by the borrow checker itself, and in addition to having an advanced **[LLVM](https://llvm.org/)** lifetimes system, by default it is not beginner-friendly.
+- ``Swift`` It is beginner-friendly, but at the same time it cannot be used as a systems language due to its very closed systems compared to FFI and C. It is not advanced-friendly.
 
 ### The Thrush solution 
 
-The programming language focuses on providing a beginner-friendly yet advanced experience while also allowing for complete adaptability in certain circumstances, allowing for highly adaptable code.
+The programming language focuses on providing an advanced yet beginner-friendly experience while allowing for complete adaptability in certain circumstances, allowing for highly adaptable code based on the programmer's experience.
 
 ## Key Points 
 
