@@ -121,32 +121,36 @@ On the other hand, I am currently developing my own programming language powered
   <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
-
-The **Thrush Programming Language**. A programming language dedicated to creating highly adaptable software.
+The **Thrush Programming Language**. A programming language dedicated to creating software that is highly adaptable to the programmer's experience.
 
 ## Philosophy
 
 ### The breach
 
-There's currently a breach: there's no memory-safe language focused on systems development that also offers easy-to-use features and a language environment. 
+There is currently a breach: no language focused on systems development exists that also offers easy-to-use features and a user-friendly language environment.
 For example:
 
 - ``Rust`` Complexity is inherited by the borrow checker itself, and in addition to having an advanced **[LLVM](https://llvm.org/)** lifetimes system, by default it is not beginner-friendly.
-- ``Swift`` It is beginner-friendly, but at the same time it cannot be used as a systems language due to its very closed systems compared to FFI and C. It is not advanced-friendly.
+- ``C++`` It's C++.
 
 ### The Thrush solution 
 
 The programming language focuses on providing an advanced yet beginner-friendly experience while allowing for complete adaptability in certain circumstances, allowing for highly adaptable code based on the programmer's experience.
 
-## Key Points 
+## Key points for advanced programmers
 
 - Intrinsic manipulation of code generation.
 - Strong sublanguage, with the ability to interoperate directly with **[LLVM](https://llvm.org/)** and **Assembler**.
 - Strongly statically typed.
-- Memory safety environment.
 - Complex unsafe environment.
 - C interop.
-- Compiled to machine code.
+
+## Key points for beginner programmers
+
+- By default, a lot of good abstractions.
+- Partial memory safety environment.
+- Lightweight software (C-like).
+- Minimal runtime requirements (only the C runtime).
 
 ## Example - Fibonacci sequence 
 
@@ -185,10 +189,13 @@ fn main() {
 
     for local i: u64 = 0; i < 10; i++; {
 
-        local format: str = "fibonacci of '%ld': %ld\n";
+        local fmt: str = "fibonacci of '%ld': %ld\n";
 
         // Explicit pointer arithmetic.
-        print(carry[ptr] address format[0][0], i, fibonacci(i));
+        instr raw_fmt: ptr = load ptr, address fmt[0][0];
+
+        // Explicit pointer arithmetic.
+        print(raw_fmt, i, fibonacci(i));
 
     }
 
