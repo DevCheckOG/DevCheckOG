@@ -147,6 +147,7 @@ The programming language focuses on providing an advanced yet beginner-friendly 
 
 ## Key points for beginner programmers
 
+- All-in-one, robust, and lightweight compiler.
 - By default, a lot of good abstractions.
 - Partial memory safety environment.
 - Lightweight software (C-like).
