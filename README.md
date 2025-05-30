@@ -121,87 +121,74 @@ On the other hand, I am currently developing my own programming language powered
   <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
 
-The **Thrush Programming Language**. A systems programming language dedicated to creating highly adaptable and maintainable software.
+The **Thrush Programming Language**. A system programming language that revolutionizes low-level control, intuitive abstraction for beginners, and limitless IR low-level control for experts.
 
 ## Philosophy
 
-### The breach
+### The problem
 
-There is currently a breach: no language focused on systems development exists that also offers easy-to-use features and a user-friendly language environment.
-For example:
-
-- ``Rust`` Complexity is inherited by the borrow checker itself, and in addition to having an advanced **[LLVM](https://llvm.org/)** lifetimes system, by default it is not beginner-friendly.
-- ``C++`` It's C++.
+Systems languages like ``C``, ``C++``, and ``Rust`` have yet to fully explore low-level programming potential, particularly in explicit manipulation of intermediate representations (IRs). Direct IR control empowers developers with seamless, high-level orchestration of assembly-like operations from source code, eliminating the need to resort to raw assembly.
 
 ### The Thrush solution 
 
-The programming language focuses on providing an advanced yet beginner-friendly experience while allowing for complete adaptability in certain circumstances, allowing for highly adaptable code based on the programmer's experience.
+Thrush empowers developers by enabling IR manipulation through language-integrated Low-Level Instructions (LLI), a high-level, streamlined interface for GCC and LLVM intrinsic instructions, while prioritizing beginners with a future memory-safe abstraction layer built atop its powerful, low-level system.
 
-## Key points for advanced programmers
+## Why Thrush over C, C++ or Rust?
 
-- Intrinsic manipulation of code generation.
-- Strong sublanguage, with the ability to interoperate directly with **[LLVM](https://llvm.org/)** and **Assembler**.
-- Strongly statically typed.
-- Complex unsafe environment.
-- C interop.
+Thrush holds immense promise for bare-metal and embedded systems development through its innovative low-level instructional concepts, particularly its language-integrated Low-Level Instructions (LLI) for seamless IR manipulation with GCC and LLVM intrinsics. While prioritizing simplicity, Thrush will layer a memory-safe abstraction atop its powerful low-level system, making it beginner-friendly. Depending on your needs, you might still choose C, C++, or Rust, but Thrush offers a unique blend of control and accessibility.
 
-## Key points for beginner programmers
+### Low Level Control
 
-- All-in-one, robust, and lightweight compiler.
-- By default, a lot of good abstractions.
-- Partial memory safety environment.
-- Lightweight software (C-like).
-- Minimal runtime requirements (only the C runtime).
+- Thrush empowers developers to compile low-level instructions directly to a specified target from source code, enabling precise, architecture-specific optimization with unparalleled ease.
 
-## Example - Fibonacci sequence 
-
-### Compiler (Not beginner-friendly)
-
-#### Linux
-
-```console
-mkdir build
-thrushc -build-dir "build/" -llvm fibonacci.th -llvm-linker-flags "-ofibonacci;-melf_x86_64;--dynamic-linker=/lib64/ld-linux-x86-64.so.2;/usr/lib/crt1.o;/usr/lib/crti.o;/usr/lib/gcc/x86_64-pc-linux-gnu/15.
-1.1/crtbegin.o;-L/usr/lib;-L/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1;-lc;/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtend.o;/usr/lib/crtn.o" && ./fibonacci
+```rust
+compile @target("armv7e-m") @output("example.s") @asm {
+  instr allocated_u8: ptr<u8> = alloc stack!, { u8, @align(4) };
+  write 8, allocated_u8;
+};
 ```
 
-### Package Manager
+- Thrush enables seamless integration of low-level instructions alongside their high-level counterparts, allowing developers to fluidly switch between abstraction levels within the same codebase.
 
-```console
-thorium run
-```
+```rust
+fn main() {
+    local number: u8 = 0;
 
-### Code
-
-```
-fn print(fmt: ptr) s32 @public @ignore @extern("printf");
-
-fn fibonacci(n: u64) u64 @alwaysinline @strongstack @hot {
-
-    if n <= 1 {
-        return n;
-    }
-
-    return fibonacci(n - 2) + fibonacci(n - 1);
-
-}
-
-fn main() { 
-
-    for local i: u64 = 0; i < 10; i++; {
-
-        local fmt: str = "fibonacci of '%ld': %ld\n";
-
-        // Explicit pointer arithmetic.
-        instr raw_fmt: ptr = load ptr, address fmt[0][0];
-
-        // Explicit pointer arithmetic.
-        print(raw_fmt, i, fibonacci(i));
-
-    }
-
+    // Low-level instruction for direct memory access.
+    instr loaded_value: u8 = load u8, number;
 }
 ```
+
+- Thrush enables seamless embedding of linear assembler within the compilation process, offering direct, streamlined control over architecture-specific code generation.
+
+```rust
+fn main() {
+    asm {
+      section .text
+      global _start
+
+      _start:
+          mov rax, 60
+          mov rdi, 0
+          syscall
+    };
+}
+```
+
+- Thrush enables seamless compile-time code execution, empowering developers to perform computations and optimizations directly during compilation with a simple, intuitive syntax.
+
+```rust
+fn comptime_sum(a: u8, a: u8) u16 @compiletime {
+  // Non-explicit cast is allowed.
+  return a + b;
+}
+
+fn main() {
+   comptime_sum(15, 15);
+}
+```
+
+- And many more unique features when the language base is finished! ~ Kevin Benavides
 
 <h3 align="center">https://github.com/thrushlang</h3>
 <br/>
