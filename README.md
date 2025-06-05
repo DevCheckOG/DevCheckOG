@@ -116,12 +116,17 @@ On the other hand, I am currently developing my own programming language powered
 <h1 align="center">Main Projects</h1>
 
 <p align="center">
-  <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
+  <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 2hv; height: 2hv;"> </img>
 </p>
 
 <h1 align="center">Thrush Programming Language</h1>
 
 The **Thrush Programming Language**. A system programming language that revolutionizes low-level control, intuitive abstraction for beginners, and limitless IR low-level control for experts.
+
+## Inspiration
+
+- The language is largely based on the syntax of its source language, Rust.
+- Its name is Thrush, reminiscent of the **[thrush](https://en.wikipedia.org/wiki/Thrush_(bird))** bird, a relative of the **Turdidae** family. Its pronunciation differs from the bird's name; it's actually T.. Rush, not Thrush.
 
 ## Philosophy
 
@@ -187,7 +192,7 @@ fn main() {
 }
 ```
 
-~ And many more unique features when the language base is finished! ~ Kevin Benavides
+- And many more unique features when the language base is finished! ~ Kevin Benavides
 
 <h3 align="center">https://github.com/thrushlang</h3>
 <br/>
