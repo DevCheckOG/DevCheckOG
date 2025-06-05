@@ -115,11 +115,11 @@ On the other hand, I am currently developing my own programming language powered
 
 <h1 align="center">Main Projects</h1>
 
-<h2 align= "center">Thrush Programming Language</h2>
-
 <p align="center">
   <img src= "https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-v1.5.png" alt= "logo" style= "width: 1hv; height: 1hv;"> </img>
 </p>
+
+<h1 align="center">Thrush Programming Language</h1>
 
 The **Thrush Programming Language**. A system programming language that revolutionizes low-level control, intuitive abstraction for beginners, and limitless IR low-level control for experts.
 
@@ -143,8 +143,8 @@ Thrush holds immense promise for bare-metal and embedded systems development thr
 
 ```rust
 compile @target("armv7e-m") @output("example.s") @asm {
-  instr allocated_u8: ptr<u8> = alloc stack!, { u8, @align(4) };
-  write 8, allocated_u8;
+  instr allocated_u8: ptr[u8] = alloc stack!, { u8, @align(4) };
+  write allocated_u8, u8 8;
 };
 ```
 
@@ -162,16 +162,15 @@ fn main() {
 - Thrush enables seamless embedding of linear assembler within the compilation process, offering direct, streamlined control over architecture-specific code generation.
 
 ```rust
-fn main() {
-    asm {
-      section .text
-      global _start
 
-      _start:
-          mov rax, 60
-          mov rdi, 0
-          syscall
-    };
+asmfn do_something() void {
+    mov rax, 60
+    mov rdi, 0
+    syscall
+} {}
+
+fn main() {
+    callasm do_something();
 }
 ```
 
@@ -188,7 +187,7 @@ fn main() {
 }
 ```
 
-- And many more unique features when the language base is finished! ~ Kevin Benavides
+~ And many more unique features when the language base is finished! ~ Kevin Benavides
 
 <h3 align="center">https://github.com/thrushlang</h3>
 <br/>
