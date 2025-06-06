@@ -5,14 +5,7 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
-Hello! I am Kevin Benavides. I am a programmer focused on the **development, design, and scalability of web/apps/APIs** and the **design and construction of compilers for dialects or programming languages** ​​such as C, Rust, or C++ with LLVM, **[QBE](https://c9x.me/compile/)**, or GCC.
-
-On the other hand, I speak languages, such as Spanish (**native**) and English (**B2**), corresponding to the CEFR. I am very determined when there are pending tasks to do, in addition to being patient and a good conversationalist with people.
-Some facts about this are that I started in the world of programming more than **6** years ago.
-
-On the other hand, I am currently developing my own programming language powered by **[LLVM](https://llvm.org/)** and **[Q#](https://learn.microsoft.com/en-us/azure/quantum/)** for traditional and quantum programming.
-
-**- Everything you will see in this place is entirely studied in a completely self-taught way. -**
+I'm a self-taught programmer with over 7 years of experience, starting at age 10 with a bash script on Ubuntu. I specialize in designing compilers and programming languages like C, Rust, and C++ using **LLVM**, **QBE**, or **GCC**, and building scalable web, app, and API backends. Currently, I'm developing my own LLVM-powered programming language. I'm passionate about tackling complex low-level systems, diving into hardware-software interactions, and pushing system architecture and optimization to new heights. I’m always eager to innovate, blending creativity with technical precision to craft robust, efficient solutions. I'm constantly open to learning and deepening my understanding of new technologies and concepts. I'm a native Spanish speaker with B2-level English proficiency (CEFR).
 
 --------------------------------------------
 
