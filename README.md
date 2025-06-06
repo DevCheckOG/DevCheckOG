@@ -173,8 +173,8 @@ asmfn invoke_exit() void {
 }
 
 fn main() {
-  
-  callasm invoke_exit();
+
+   invoke_exit();
   
 }
 ```
