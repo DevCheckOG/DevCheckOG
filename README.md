@@ -173,9 +173,7 @@ asmfn invoke_exit() void {
 }
 
 fn main() {
-
    invoke_exit();
-  
 }
 ```
 
