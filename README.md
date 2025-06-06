@@ -164,7 +164,7 @@ fn main() {
 - Thrush enables seamless embedding of linear assembler within the compilation process, offering direct, streamlined control over architecture-specific code generation.
 
 ```rust
-asmfn invoke_exit() void {
+asmfn invoke_exit_syscall() void {
     "mov $$60, %rax",
     "mov $$1, %rdi",
     "syscall"
@@ -173,7 +173,7 @@ asmfn invoke_exit() void {
 }
 
 fn main() {
-   invoke_exit();
+   invoke_exit_syscall();
 }
 ```
 
