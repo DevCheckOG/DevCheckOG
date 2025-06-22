@@ -5,7 +5,7 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
-I am a self-taught developer with over 7 years of experience. I specialize in designing and building compilers using code generators such as LLVM, GCC, or Cranelift for the creation of modern C compilers or for a new programming language. In addition to this, I have in-depth knowledge of creating scalable backends for web applications and APIs. 
+I am a self-taught developer with over 7 years of experience. I specialize in designing and building compilers using code generators such as LLVM, GCC, or Cranelift for the creation of modern C compilers or for new programming languages. In addition to this, I have in-depth knowledge of creating scalable backends for web applications and APIs. 
 
 Currently, I am developing my own systems programming language using code generators such as LLVM and GCC. I am passionate about tackling complex low-level systems, delving into hardware-software interactions, and taking systems architecture and optimization to new heights. 
 
