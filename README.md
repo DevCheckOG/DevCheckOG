@@ -5,11 +5,11 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
-I'm a self-taught programmer with over 7 years of experience, starting with a bash script on Ubuntu. I specialize in designing compilers and programming languages like C, Rust, and C++ using **LLVM**, **QBE**, or **GCC**, and building scalable web, app, and API backends. 
+I am a self-taught developer with over 7 years of experience. I specialize in designing and building compilers using code generators such as LLVM, GCC, or Cranelift for the creation of modern C compilers or for a new programming language. In addition to this, I have in-depth knowledge of creating scalable backends for web applications and APIs. 
 
-Currently, I'm developing my own LLVM-powered **programming language**. I'm passionate about tackling complex low-level systems, diving into hardware-software interactions, and pushing system architecture and optimization to new heights. 
+Currently, I am developing my own systems programming language using code generators such as LLVM and GCC. I am passionate about tackling complex low-level systems, delving into hardware-software interactions, and taking systems architecture and optimization to new heights. 
 
-I’m always eager to innovate, blending creativity with technical precision to craft robust, efficient solutions. I'm constantly open to learning and deepening my understanding of new technologies and concepts. I'm a native Spanish speaker with B2-level English proficiency (CEFR).
+I am always willing to innovate, combining creativity with technical precision to create robust and efficient solutions. I am always open to learning and deepening my understanding of new technologies and concepts. I am a native Spanish speaker with a B2 level of English (CEFR).
 
 --------------------------------------------
 
