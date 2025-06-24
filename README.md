@@ -110,4 +110,4 @@ I am always willing to innovate, combining creativity with technical precision t
 
 __*https://linkedin.com/in/devcheckog*__ 
 <br>
-__*https://instagram.com/devcheckog/*__
+__*https://instagram.com/devcheckog*__
