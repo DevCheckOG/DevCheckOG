@@ -13,7 +13,7 @@ I am always willing to innovate, combining creativity with technical precision t
 
 --------------------------------------------
 
-## Critical Systems/Compilers Development
+## Systems/Compilers Development
 
 <p>
    <a href="https://github.com/DevCheckOG"><img alt="Rust" src="https://a11ybadges.com/badge?logo=rust"></a>
@@ -31,7 +31,7 @@ I am always willing to innovate, combining creativity with technical precision t
     <br>
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://a11ybadges.com/badge?logo=streamlit"></a>
 </p>
 
 ### Backend Languages/Technologies
@@ -43,8 +43,9 @@ I am always willing to innovate, combining creativity with technical precision t
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
     <a href="https://github.com/DevCheckOG"><img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"></a>
     <br>		
-    <a href="https://github.com/DevCheckOG"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
-    <a href="https://github.com/DevCheckOG"><img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="FastAPI" src="https://a11ybadges.com/badge?logo=fastapi"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Fastify" src="https://a11ybadges.com/badge?logo=fastify"></a>
+    <a href="https://github.com/DevCheckOG"><img alt="Scrapy" src="https://a11ybadges.com/badge?logo=scrapy"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Scrapy" src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
