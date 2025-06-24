@@ -7,8 +7,6 @@ Hello, I'm Kevin Benavides!
 
 I am a self-taught developer with over 7 years of experience. I specialize in designing and building compilers using code generators such as LLVM, GCC, or Cranelift for the creation of modern C compilers or for new programming languages. In addition to this, I have in-depth knowledge of creating scalable backends for web applications and APIs. 
 
-Currently, I am developing my own systems programming language using code generators such as LLVM and GCC. I am passionate about tackling complex low-level systems, delving into hardware-software interactions, and taking systems architecture and optimization to new heights. 
-
 I am always willing to innovate, combining creativity with technical precision to create robust and efficient solutions. I am always open to learning and deepening my understanding of new technologies and concepts. I am a native Spanish speaker with a B2 level of English (CEFR).
 
 --------------------------------------------
@@ -107,3 +105,9 @@ I am always willing to innovate, combining creativity with technical precision t
     <a href="https://github.com/DevCheckOG"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 </p>
+
+## Social Networks
+
+__*https://linkedin.com/in/devcheckog*__ 
+<br>
+__*https://instagram.com/devcheckog/*__
