@@ -28,6 +28,7 @@ I am always willing to innovate, combining creativity with technical precision t
 
 <p>
     <a href="https://github.com/DevCheckOG"><img alt="JS" src="https://a11ybadges.com/badge?logo=javascript"></a>
+    <br>	
     <a href="https://github.com/DevCheckOG"><img alt="HTML5" src="https://a11ybadges.com/badge?logo=html5"></a>
     <a href="https://github.com/DevCheckOG"><img alt="CSS3" src="https://a11ybadges.com/badge?logo=css3"></a>
     <a href="https://github.com/DevCheckOG"><img alt="Streamlit" src="https://a11ybadges.com/badge?logo=streamlit"></a>
