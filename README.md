@@ -24,7 +24,7 @@ Hello, I'm Kevin Benavides!
 
 [LLVM](https://llvm.org/) IR, [MLIR](https://mlir.llvm.org/), [QIR](https://qir-alliance.org/) & [WASM](https://webassembly.org/).
 
-### Frameworks & Libraries: 
+### Frameworks & Libraries
 
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [FastAPI](https://fastapi.tiangolo.com/)
@@ -35,7 +35,7 @@ Hello, I'm Kevin Benavides!
 - [Socket.io](https://socket.io/)
 - [Node.js](https://nodejs.org)
 
-~ And more.
+And more.
 
 ### Testing
 
@@ -62,7 +62,7 @@ Hello, I'm Kevin Benavides!
 - [NPM](https://www.npmjs.com/)
 - [Docker](https://www.docker.com/)
 
-~ And more.
+And more.
 
 ### Operating Systems
 
