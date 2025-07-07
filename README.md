@@ -62,7 +62,7 @@ Hello, I'm Kevin Benavides!
 ### Tools & Extra
 
 - [Git](https://git-scm.com/)
-- [GNU Tools](https://www.gnu.org/software/coreutils/)
+- [GNU Core Utils](https://www.gnu.org/software/coreutils/)
 - [NPM](https://www.npmjs.com/)
 - [Docker](https://www.docker.com/)
 
