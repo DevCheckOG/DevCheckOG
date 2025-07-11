@@ -31,7 +31,6 @@ Hello, I'm Kevin Benavides!
 - [Rocket.rs](https://rocket.rs/)
 - [Axum](https://github.com/tokio-rs/axum)
 - [Fastify](https://fastify.dev/)
-- [Express.js](https://expressjs.com/)
 - [Socket.io](https://socket.io/)
 - [Node.js](https://nodejs.org)
 
