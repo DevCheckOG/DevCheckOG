@@ -26,7 +26,6 @@ Hello, I'm Kevin Benavides!
 
 ### Frameworks & Libraries
 
-- [Spring Boot](https://spring.io/projects/spring-boot)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Rocket.rs](https://rocket.rs/)
 - [Axum](https://github.com/tokio-rs/axum)
