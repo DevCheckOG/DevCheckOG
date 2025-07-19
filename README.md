@@ -6,7 +6,7 @@ Hello, I'm Kevin Benavides!
 </h1>
 
 <div align="center">
-	<img src="assets/llvm.gif">
+    <img src="assets/llvm.gif" width="50%">
 </div>
 
 ### Programming Languages 
