@@ -5,6 +5,10 @@ Hello, I'm Kevin Benavides!
 	</a>
 </h1>
 
+<div align="center">
+	<img src="assets/llvm.gif">
+</div>
+
 ### Programming Languages 
 
 - [C](https://www.c-language.org/)
