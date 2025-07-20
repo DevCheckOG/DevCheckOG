@@ -72,7 +72,7 @@ And more.
 
 ### Operating Systems
 
-- [Linux](https://www.linuxfoundation.org/)
+- [GNU/Linux](https://www.gnu.org/)
 - [Windows](https://www.microsoft.com/es-xl/windows/)
 - [FreeBSD](https://www.freebsd.org/)
 
