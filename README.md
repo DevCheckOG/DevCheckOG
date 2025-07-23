@@ -83,3 +83,16 @@ And more.
 __*https://linkedin.com/in/devcheckog*__ 
 <br>
 __*https://instagram.com/devcheckog*__
+
+---------------
+
+## Side Projects
+
+<img src="https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-logo-full-name-v1.8.png" alt="Thrush Programming Logo" style="width: 70%; height: 70%;">
+
+Thrush is a strongly typed, machine-compiled systems programming language designed to provide full hardware control and high reliability in embedded systems. It integrates native assembler support, ensuring uncompromising low-level access. Built on LLVM and compatible with GCC, it combines optimized performance with portability, ideal for applications where efficiency and stability are critical.
+
+### Reference
+
+https://github.com/thrushlang
+  
