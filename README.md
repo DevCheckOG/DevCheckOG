@@ -1,12 +1,5 @@
-<h1 align="center">
-Hello, I'm Kevin Benavides!
-	<a href="https://github.com/DevCheckOG" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-
 <div align="center">
-    <img src="assets/llvm.gif" width="50%">
+    <img src="assets/DevCheck.gif" width="80%">
 </div>
 
 ### Programming Languages 
