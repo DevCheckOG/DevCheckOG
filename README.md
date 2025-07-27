@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/DevCheck.gif" width="80%">
+    <img src="assets/KevinBenavides.gif" width="80%">
 </div>
 
 ### Programming Languages 
