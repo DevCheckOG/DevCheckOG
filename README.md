@@ -30,6 +30,8 @@
 - [Socket.io](https://socket.io/)
 - [Node.js](https://nodejs.org)
 
+And more, contact me.
+
 ### Build Systems
 
 - [CMake](https://cmake.org/)
@@ -60,8 +62,8 @@
 - [GNU Core Utils](https://www.gnu.org/software/coreutils/)
 - [NPM](https://www.npmjs.com/)
 - [Docker](https://www.docker.com/)
-
-And more.
+  
+And more, contact me.
 
 ### Operating Systems
 
