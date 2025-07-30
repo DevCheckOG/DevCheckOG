@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="assets/KevinBenavides-v1.0.1.gif" width="60%">
-</div>
-
 ### Programming Languages 
 
 - [C](https://www.c-language.org/)
