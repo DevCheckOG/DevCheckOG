@@ -7,15 +7,15 @@
 - [JavaScript](https://v8.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+### Intermediate Representations
+
+[LLVM](https://llvm.org/) IR, [MLIR](https://mlir.llvm.org/), [QIR](https://qir-alliance.org/) & [WASM](https://webassembly.org/).
+
 ### Code Generators
 
 - [LLVM](https://llvm.org/)
 - [Cranelift](https://cranelift.dev/)
 - [QBE](https://c9x.me/compile/)
-
-### Intermediate Representations
-
-[LLVM](https://llvm.org/) IR, [MLIR](https://mlir.llvm.org/), [QIR](https://qir-alliance.org/) & [WASM](https://webassembly.org/).
 
 ### Frameworks & Libraries
 
