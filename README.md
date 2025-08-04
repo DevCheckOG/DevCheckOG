@@ -55,6 +55,7 @@ And more, contact me.
 ### Tools & Extra
 
 - [Git](https://git-scm.com/)
+- [GitKraken](https://www.gitkraken.com/)
 - [GNU Core Utils](https://www.gnu.org/software/coreutils/)
 - [NPM](https://www.npmjs.com/)
 - [Docker](https://www.docker.com/)
@@ -87,3 +88,4 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 https://github.com/thrushlang
   
+
