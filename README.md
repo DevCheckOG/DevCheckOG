@@ -9,7 +9,7 @@
 
 ### Intermediate Representations
 
-[LLVM](https://llvm.org/) IR, [MLIR](https://mlir.llvm.org/), [QIR](https://qir-alliance.org/) & [WASM](https://webassembly.org/).
+[LLVM](https://llvm.org/) IR, [MLIR](https://mlir.llvm.org/) & [QIR](https://qir-alliance.org/)
 
 ### Code Generators
 
@@ -88,4 +88,5 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 https://github.com/thrushlang
   
+
 
