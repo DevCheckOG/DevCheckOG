@@ -40,12 +40,10 @@ And more, contact me.
 - [Jasmine](https://jasmine.github.io/)
 - [Swagger](https://swagger.io/)
 
-### Databases & Platforms
+### Databases 
 
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://mysql.com/)
-- [Supabase](https://supabase.com/)
-- [Firebase](https://firebase.google.com/)
 
 ### Compilers
 
@@ -88,6 +86,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 https://github.com/thrushlang
   
+
 
 
 
