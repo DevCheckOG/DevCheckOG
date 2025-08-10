@@ -15,7 +15,7 @@
 
 - [LLVM](https://llvm.org/)
 - [Cranelift](https://cranelift.dev/)
-- [QBE](https://c9x.me/compile/)
+- [QBE](https://c9x.me/compile/) (It's funny, it's not serious at all)
 
 ### Frameworks & Libraries
 
@@ -88,5 +88,6 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 https://github.com/thrushlang
   
+
 
 
