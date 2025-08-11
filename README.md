@@ -70,9 +70,9 @@ And more, contact me.
 
 ## Social Networks
 
-__*https://linkedin.com/in/devcheckog*__ 
+https://linkedin.com/in/devcheckog
 <br>
-__*https://instagram.com/devcheckog*__
+https://instagram.com/devcheckog
 
 ---------------
 
@@ -84,8 +84,9 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 ### Reference
 
-https://github.com/thrushlang
+**https://github.com/thrushlang**
   
+
 
 
 
