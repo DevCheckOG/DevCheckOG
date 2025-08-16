@@ -1,3 +1,10 @@
+<h1 align="center">
+Hello, I'm Kevin Benavides!
+	<a href="https://github.com/DevCheckOG" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+
 ### Programming Languages 
 
 - [C](https://www.c-language.org/)
@@ -68,14 +75,6 @@ And more, contact me.
 
 ---------------
 
-## Social Networks
-
-[LinkedIn](https://linkedin.com/in/devcheckog)
-<br>
-[Instagram](https://instagram.com/devcheckog)
-
----------------
-
 ## Side Projects
 
 <img src="https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-logo-full-name-v1.8.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
@@ -86,6 +85,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 **https://github.com/thrushlang**
   
+
 
 
 
