@@ -98,6 +98,12 @@ And more, contact me.
 
 Thrush is a strongly typed, machine-compiled systems programming language designed to provide full hardware control and high reliability in embedded systems. It integrates native assembler support, ensuring uncompromising low-level access. Built on LLVM and compatible with GCC, it combines optimized performance with portability, ideal for applications where efficiency and stability are critical.
 
+<div align="center">
+	<h3 align="center">
+		<a align="center" target="_blank" href="https://github.com/thrushlang"></a>
+	</h3>
+</div>
+
 ### Reference
 
 **https://github.com/thrushlang**
@@ -121,6 +127,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
