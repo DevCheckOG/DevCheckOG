@@ -16,7 +16,7 @@ I have been developing software since I was 10 years old in a self-taught manner
 
 Outside of IT, I like playing chess, classic games, and cats.
 
-Without further ado, I hope you enjoy my projects; there is a path to follow.
+Without anything more, I hope you enjoy my projects; there is a path to follow.
 
 ---------------
 
@@ -121,6 +121,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
