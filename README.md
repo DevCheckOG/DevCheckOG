@@ -100,13 +100,9 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 <div align="center">
 	<h3 align="center">
-		<a align="center" target="_blank" href="https://github.com/thrushlang"></a>
+		<a target="_blank" href="https://github.com/thrushlang">Thrush Programming Language</a>
 	</h3>
 </div>
-
-### Reference
-
-**https://github.com/thrushlang**
 
 ---------------
 
@@ -127,6 +123,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
