@@ -121,8 +121,19 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 	</table>
 </div>
 
+<div align="center">
+<table>
+	  <tr>
+		<td align="center" style="padding=0;width=50%;">
+		  <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=DevCheckOG&theme=dark&hide_border=true" height="180" />
+		</td>
+	  </tr>
+	</table>
+</div>
+
 
   
+
 
 
 
