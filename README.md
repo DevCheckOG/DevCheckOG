@@ -78,7 +78,7 @@ Without anything more, I hope you enjoy my projects. There is a path to follow.
 - [GitKraken](https://www.gitkraken.com/)
 - [GNU Core Utils](https://www.gnu.org/software/coreutils/)
 - [NPM](https://www.npmjs.com/)
-- [Docker](https://www.docker.com/
+- [Docker](https://www.docker.com/)
 
 ### Operating Systems
 
@@ -129,6 +129,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
