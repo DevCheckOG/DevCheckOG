@@ -20,7 +20,7 @@ Without anything more, I hope you enjoy my projects. There is a path to follow.
 
 ---------------
 
-## Skills
+## Technical Skills
 
 ### Programming Languages 
 
@@ -129,6 +129,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
