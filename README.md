@@ -9,7 +9,7 @@ Hi there!
 
 Hello!👋 Welcome to my GitHub profile.
 
-I've been developing software since I was 10, teaching myself and focusing on mastering new areas through self-learning from the start.
+I've been developing software since I was 10, teaching myself and focusing on mastering new cutting-edge areas through self-learning from the start.
 
 - I like researching cutting-edge niche technologies.
 - I like the connection between software and hardware at a low level.
@@ -129,6 +129,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
