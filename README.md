@@ -27,6 +27,7 @@ Without anything more, I hope you enjoy my project**s**. There is a path to foll
 | **Programming Languages** | C, Rust, Java, Python, JavaScript, TypeScript                        | [C](https://www.c-language.org/), [Rust](https://www.rust-lang.org/), [Java](https://openjdk.org/), [Python](https://www.python.org/), [JavaScript](https://v8.dev/), [TypeScript](https://www.typescriptlang.org/) |
 | **Intermediate Representations** | LLVM IR, MLIR, QIR                                          | [LLVM](https://llvm.org/), [MLIR](https://mlir.llvm.org/), [QIR](https://qir-alliance.org/) |
 | **Code Generators**      | LLVM, Cranelift, QBE                                                | [LLVM](https://llvm.org/), [Cranelift](https://cranelift.dev/), [QBE](https://c9x.me/compile/) |
+| **Assemblers**      | x86_64 (Intel)                                             | [x86_64](https://www.nasm.us/) |
 | **Frameworks & Libraries** | FastAPI, Rocket.rs, Axum, Fastify, Socket.io, Node.js              | [FastAPI](https://fastapi.tiangolo.com/), [Rocket.rs](https://rocket.rs/), [Axum](https://github.com/tokio-rs/axum), [Fastify](https://fastify.dev/), [Socket.io](https://socket.io/), [Node.js](https://nodejs.org) |
 | **Build Systems**       | CMake, Ninja, Maven                                                 | [CMake](https://cmake.org/), [Ninja](https://ninja-build.org/), [Maven](https://maven.apache.org/) |
 | **Testing**             | PyTest, Jasmine, Swagger                                            | [PyTest](https://docs.pytest.org/en/stable/), [Jasmine](https://jasmine.github.io/), [Swagger](https://swagger.io/) |
@@ -78,6 +79,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
