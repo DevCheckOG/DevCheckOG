@@ -24,17 +24,18 @@ Without anything more, I hope you enjoy my project**s**. There is a path to foll
 
 | Category                | Skills                                                                 | Information                                                                 |
 |------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Programming Languages** | C, Rust, Java, Python, JavaScript, TypeScript                        | <a href="https://www.c-language.org/" target="_blank">C</a>, <a href="https://www.rust-lang.org/" target="_blank">Rust</a>, <a href="https://openjdk.org/" target="_blank">Java</a>, <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://v8.dev/" target="_blank">JavaScript</a>, <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> |
-| **Intermediate Representations** | LLVM IR, MLIR, QIR                                          | <a href="https://llvm.org/" target="_blank">LLVM</a>, <a href="https://mlir.llvm.org/" target="_blank">MLIR</a>, <a href="https://qir-alliance.org/" target="_blank">QIR</a> |
-| **Code Generators**      | LLVM, Cranelift, QBE                                                | <a href="https://llvm.org/" target="_blank">LLVM</a>, <a href="https://cranelift.dev/" target="_blank">Cranelift</a>, <a href="https://c9x.me/compile/" target="_blank">QBE</a> |
-| **Assemblers**      | x86_64 (Intel)                                             | <a href="https://www.nasm.us/" target="_blank">x86_64</a> |
-| **Frameworks & Libraries** | FastAPI, Rocket.rs, Axum, Fastify, Socket.io, Node.js              | <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a>, <a href="https://rocket.rs/" target="_blank">Rocket.rs</a>, <a href="https://github.com/tokio-rs/axum" target="_blank">Axum</a>, <a href="https://fastify.dev/" target="_blank">Fastify</a>, <a href="https://socket.io/" target="_blank">Socket.io</a>, <a href="https://nodejs.org" target="_blank">Node.js</a> |
-| **Build Systems**       | CMake, Ninja, Maven                                                 | <a href="https://cmake.org/" target="_blank">CMake</a>, <a href="https://ninja-build.org/" target="_blank">Ninja</a>, <a href="https://maven.apache.org/" target="_blank">Maven</a> |
-| **Testing**             | PyTest, Jasmine, Swagger                                            | <a href="https://docs.pytest.org/en/stable/" target="_blank">PyTest</a>, <a href="https://jasmine.github.io/" target="_blank">Jasmine</a>, <a href="https://swagger.io/" target="_blank">Swagger</a> |
-| **Databases**           | MongoDB, MySQL                                                     | <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>, <a href="https://mysql.com/" target="_blank">MySQL</a> |
-| **Compilers**           | Clang, GCC                                                         | <a href="https://clang.llvm.org/" target="_blank">Clang</a>, <a href="https://gcc.gnu.org/" target="_blank">GCC</a> |
-| **Tools & Extra**       | Git, GitKraken, GNU Core Utils, NPM, Docker                        | <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://www.gitkraken.com/" target="_blank">GitKraken</a>, <a href="https://www.gnu.org/software/coreutils/" target="_blank">GNU Core Utils</a>, <a href="https://www.npmjs.com/" target="_blank">NPM</a>, <a href="https://www.docker.com/" target="_blank">Docker</a> |
-| **Operating Systems**   | GNU/Linux, Windows, FreeBSD                                        | <a href="https://www.gnu.org/" target="_blank">GNU/Linux</a>, <a href="https://www.microsoft.com/es-xl/windows/" target="_blank">Windows</a>, <a href="https://www.freebsd.org/" target="_blank">FreeBSD</a> |
+| **Programming Languages** | C, Rust, Java, Python, JavaScript, TypeScript                        | <a target="_blank" href="https://www.c-language.org/">C</a>, <a target="_blank" href="https://www.rust-lang.org/">Rust</a>, <a target="_blank" href="https://openjdk.org/">Java</a>, <a target="_blank" href="https://www.python.org/">Python</a>, <a target="_blank" href="https://v8.dev/">JavaScript</a>, <a target="_blank" href="https://www.typescriptlang.org/">TypeScript</a> |
+| **Intermediate Representations** | LLVM IR, MLIR, QIR                                          | <a target="_blank" href="https://llvm.org/">LLVM</a>, <a target="_blank" href="https://mlir.llvm.org/">MLIR</a>, <a target="_blank" href="https://qir-alliance.org/">QIR</a> |
+| **Code Generators**      | LLVM, Cranelift, QBE                                                | <a target="_blank" href="https://llvm.org/">LLVM</a>, <a target="_blank" href="https://cranelift.dev/">Cranelift</a>, <a target="_blank" href="https://c9x.me/compile/">QBE</a> |
+| **Assemblers**           | x86_64 (Intel)                                                     | <a target="_blank" href="https://www.nasm.us/">x86_64</a> |
+| **Frameworks & Libraries** | FastAPI, Rocket.rs, Axum, Fastify, Socket.io, Node.js              | <a target="_blank" href="https://fastapi.tiangolo.com/">FastAPI</a>, <a target="_blank" href="https://rocket.rs/">Rocket.rs</a>, <a target="_blank" href="https://github.com/tokio-rs/axum">Axum</a>, <a target="_blank" href="https://fastify.dev/">Fastify</a>, <a target="_blank" href="https://socket.io/">Socket.io</a>, <a target="_blank" href="https://nodejs.org/">Node.js</a> |
+| **Build Systems**        | CMake, Ninja, Maven                                                 | <a target="_blank" href="https://cmake.org/">CMake</a>, <a target="_blank" href="https://ninja-build.org/">Ninja</a>, <a target="_blank" href="https://maven.apache.org/">Maven</a> |
+| **Testing**              | PyTest, Jasmine, Swagger                                            | <a target="_blank" href="https://docs.pytest.org/en/stable/">PyTest</a>, <a target="_blank" href="https://jasmine.github.io/">Jasmine</a>, <a target="_blank" href="https://swagger.io/">Swagger</a> |
+| **Databases**            | MongoDB, MySQL                                                     | <a target="_blank" href="https://www.mongodb.com/">MongoDB</a>, <a target="_blank" href="https://mysql.com/">MySQL</a> |
+| **Compilers**            | Clang, GCC                                                         | <a target="_blank" href="https://clang.llvm.org/">Clang</a>, <a target="_blank" href="https://gcc.gnu.org/">GCC</a> |
+| **Tools & Extra**        | Git, GitKraken, GNU Core Utils, NPM, Docker                        | <a target="_blank" href="https://git-scm.com/">Git</a>, <a target="_blank" href="https://www.gitkraken.com/">GitKraken</a>, <a target="_blank" href="https://www.gnu.org/software/coreutils/">GNU Core Utils</a>, <a target="_blank" href="https://www.npmjs.com/">NPM</a>, <a target="_blank" href="https://www.docker.com/">Docker</a> |
+| **Operating Systems**    | GNU/Linux, Windows, FreeBSD                                        | <a target="_blank" href="https://www.gnu.org/">GNU/Linux</a>, <a target="_blank" href="https://www.microsoft.com/es-xl/windows/">Windows</a>, <a target="_blank" href="https://www.freebsd.org/">FreeBSD</a> |
+
 ---------------
 
 ## Side Projects
@@ -78,6 +79,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
