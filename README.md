@@ -35,7 +35,6 @@ Without anything more, I hope you enjoy my project**s**. There is a path to foll
 | **Compilers**           | Clang, GCC                                                         | <a href="https://clang.llvm.org/" target="_blank">Clang</a>, <a href="https://gcc.gnu.org/" target="_blank">GCC</a> |
 | **Tools & Extra**       | Git, GitKraken, GNU Core Utils, NPM, Docker                        | <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://www.gitkraken.com/" target="_blank">GitKraken</a>, <a href="https://www.gnu.org/software/coreutils/" target="_blank">GNU Core Utils</a>, <a href="https://www.npmjs.com/" target="_blank">NPM</a>, <a href="https://www.docker.com/" target="_blank">Docker</a> |
 | **Operating Systems**   | GNU/Linux, Windows, FreeBSD                                        | <a href="https://www.gnu.org/" target="_blank">GNU/Linux</a>, <a href="https://www.microsoft.com/es-xl/windows/" target="_blank">Windows</a>, <a href="https://www.freebsd.org/" target="_blank">FreeBSD</a> |
-
 ---------------
 
 ## Side Projects
@@ -79,6 +78,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
