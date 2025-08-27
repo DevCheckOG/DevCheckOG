@@ -15,8 +15,6 @@ I'm a self-taught software developer who started at 10. My journey has always be
 - I like researching cutting-edge niche technologies.
 - I like the connection between software and hardware at a low level.
 
-Thank you for the opportunities.
-
 ---------------
 
 ## Technical Skills
@@ -78,6 +76,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
