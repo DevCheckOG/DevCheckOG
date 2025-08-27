@@ -14,8 +14,6 @@ I've been developing software since I was 10, teaching myself and focusing on ma
 - I like researching cutting-edge niche technologies.
 - I like the connection between software and hardware at a low level.
 
-Outside of IT, I like playing chess, classic games, and cats.
-
 Without anything more, I hope you enjoy my project**s**. There is a path to follow.
 
 ---------------
@@ -79,6 +77,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
