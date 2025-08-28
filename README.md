@@ -9,7 +9,7 @@ Hi there!
 
 Hello!👋 Welcome to my GitHub profile.
 
-I'm a self-taught software developer who started at 10. My journey has always been about learning on my own. No courses. No mentors. I'm just building things from scratch. I've always found ways to create any kind of software I set out to make. I dive deep into research and then bring my ideas to life. I love researching niche and undiscovered software.
+I'm a self-taught software developer who started at age 10. My journey has always been one of self-learning. I simply research and develop things from scratch. My key is to immerse myself in research thoroughly and then shape the software. I love exploring niche and undiscovered software.
 
 - I like deep research into any type of software.
 - I like researching cutting-edge niche technologies.
@@ -76,6 +76,7 @@ Thrush is a strongly typed, machine-compiled systems programming language design
 
 
   
+
 
 
 
