@@ -30,7 +30,7 @@ I am a self-taught software developer who started at the age of 10. My journey h
 | **Testing**             | PyTest, Jasmine, Swagger                                            | [PyTest](https://docs.pytest.org/en/stable/), [Jasmine](https://jasmine.github.io/), [Swagger](https://swagger.io/) |
 | **Databases**           | MongoDB, MySQL                                                     | [MongoDB](https://www.mongodb.com/), [MySQL](https://mysql.com/) |
 | **Compilers**           | Clang, GCC                                                         | [Clang](https://clang.llvm.org/), [GCC](https://gcc.gnu.org/) |
-| **Tools & Extra**       | Git, GitKraken, GNU Core Utils, NPM, Docker                        | [Git](https://git-scm.com/), [GitKraken](https://www.gitkraken.com/), [GNU Core Utils](https://www.gnu.org/software/coreutils/), [NPM](https://www.npmjs.com/), [Docker](https://www.docker.com/) |
+| **Tools & Extra**       | Git, GNU Core Utils, NPM, Docker                        | [Git](https://git-scm.com/), [GNU Core Utils](https://www.gnu.org/software/coreutils/), [NPM](https://www.npmjs.com/), [Docker](https://www.docker.com/) |
 | **Operating Systems**   | GNU/Linux, Windows, FreeBSD                                        | [GNU/Linux](https://www.gnu.org/), [Windows](https://www.microsoft.com/es-xl/windows/), [FreeBSD](https://www.freebsd.org/) |
 
 ---------------
@@ -76,6 +76,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
