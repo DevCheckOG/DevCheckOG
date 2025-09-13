@@ -37,7 +37,7 @@ I am a self-taught software developer. I simply research and develop things.
 
 ## Side Projects
 
-<img src="https://github.com/thrushlang/thrushc/blob/master/assets/thrushlang-logo-full-name-v1.8.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
+<img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
 
 Thrush is a strongly typed, machine-compiled general-purpose systems programming language. It integrates native assembler support, ensuring uncompromising low-level access. Built on LLVM and compatible with GCC, it combines optimized performance with portability, ideal for software where efficiency and stability are critical.
 
@@ -76,6 +76,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
