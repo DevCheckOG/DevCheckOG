@@ -9,7 +9,7 @@ Hi there!
 
 Hello!👋 Welcome to my GitHub profile.
 
-I am a computer engineering student with a previous strong self-taught background. I simply research and develop things.
+I am a computer engineering student with a previous self-taught background.
 
 - I like exploring niche and undiscovered software.
 - I like research into any type of software. 
@@ -76,6 +76,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
