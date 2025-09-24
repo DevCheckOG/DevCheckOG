@@ -15,8 +15,6 @@ I am a computer engineering student with a previous self-taught background.
 - I like research into any type of software. 
 - I like the connection between software and hardware at a low level.
 
----------------
-
 ## Technical Skills
 
 | Category                | Skills                                                                 | Information                                                                 |
@@ -33,8 +31,6 @@ I am a computer engineering student with a previous self-taught background.
 | **Tools & Extra**       | Git, GNU Core Utils, NPM                        | [Git](https://git-scm.com/), [GNU Core Utils](https://www.gnu.org/software/coreutils/), [NPM](https://www.npmjs.com/) |
 | **Operating Systems**   | GNU/Linux, Windows, FreeBSD                                        | [GNU/Linux](https://www.gnu.org/), [Windows](https://www.microsoft.com/es-xl/windows/), [FreeBSD](https://www.freebsd.org/) |
 
----------------
-
 ## Side Projects
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
@@ -46,8 +42,6 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 		<a target="_blank" href="https://github.com/thrushlang">Thrush Programming Language</a>
 	</h3>
 </div>
-
----------------
 
 ## Github Statistics
 
@@ -76,6 +70,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
