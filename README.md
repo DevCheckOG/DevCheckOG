@@ -12,7 +12,7 @@ Hello!👋 Welcome to my GitHub profile.
 I am an 18-year-old computer engineering student with a previous self-taught background.
 
 - I like research hardware/software stuff.
-- I do compilers for fun/hobby.
+- I do/research compilers for fun/hobby.
 
 ## Technical Skills
 
@@ -69,6 +69,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
