@@ -34,7 +34,7 @@ I am an 18-year-old computer engineering student with a previous self-taught bac
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
 
-Thrush is a strongly typed, machine-compiled general-purpose systems programming language. It integrates native assembler support, ensuring uncompromising low-level access. Built on LLVM and compatible with GCC, it combines optimized performance with portability, ideal for software where efficiency and stability are critical.
+Thrush is a strongly typed, machine-compiled general-purpose systems programming language. It integrates native assembler support, ensuring low-level access. Built on LLVM and compatible with GCC, it combines optimized performance with portability, ideal for software where efficiency and stability.
 
 <div align="center">
 	<h3 align="center">
@@ -69,6 +69,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
