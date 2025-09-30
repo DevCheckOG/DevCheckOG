@@ -14,22 +14,6 @@ I am a computer engineering student recently with a previous self-taught backgro
 - I like research hardware/software stuff.
 - I do/research compilers for fun/hobby.
 
-## Technical Skills
-
-| Category                | Skills                                                                 | Information                                                                 |
-|------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Programming Languages** | C, Rust, Java, Python, JavaScript, TypeScript                        | [C](https://www.c-language.org/), [Rust](https://www.rust-lang.org/), [Java](https://openjdk.org/), [Python](https://www.python.org/), [JavaScript](https://v8.dev/), [TypeScript](https://www.typescriptlang.org/) |
-| **Intermediate Representations** | LLVM IR, MLIR, QIR                                          | [LLVM](https://llvm.org/), [MLIR](https://mlir.llvm.org/), [QIR](https://qir-alliance.org/) |
-| **Code Generators**      | LLVM, Cranelift, QBE                                                | [LLVM](https://llvm.org/), [Cranelift](https://cranelift.dev/), [QBE](https://c9x.me/compile/) |
-| **Assemblers**      | x86_64 (Intel)                                             | [x86_64](https://www.nasm.us/) |
-| **Frameworks & Libraries** | FastAPI, Rocket.rs, Axum, Fastify, Socket.io, Node.js              | [FastAPI](https://fastapi.tiangolo.com/), [Rocket.rs](https://rocket.rs/), [Axum](https://github.com/tokio-rs/axum), [Fastify](https://fastify.dev/), [Socket.io](https://socket.io/), [Node.js](https://nodejs.org) |
-| **Build Systems**       | CMake, Ninja, Maven                                                 | [CMake](https://cmake.org/), [Ninja](https://ninja-build.org/), [Maven](https://maven.apache.org/) |
-| **Testing**             | PyTest, Jasmine, Swagger                                            | [PyTest](https://docs.pytest.org/en/stable/), [Jasmine](https://jasmine.github.io/), [Swagger](https://swagger.io/) |
-| **Databases**           | MongoDB, MySQL                                                     | [MongoDB](https://www.mongodb.com/), [MySQL](https://mysql.com/) |
-| **Compilers**           | Clang, GCC                                                         | [Clang](https://clang.llvm.org/), [GCC](https://gcc.gnu.org/) |
-| **Tools & Extra**       | Git, GNU Core Utils, NPM                        | [Git](https://git-scm.com/), [GNU Core Utils](https://www.gnu.org/software/coreutils/), [NPM](https://www.npmjs.com/) |
-| **Operating Systems**   | GNU/Linux, Windows, FreeBSD                                        | [GNU/Linux](https://www.gnu.org/), [Windows](https://www.microsoft.com/es-xl/windows/), [FreeBSD](https://www.freebsd.org/) |
-
 ## Side Projects
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
@@ -69,6 +53,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
