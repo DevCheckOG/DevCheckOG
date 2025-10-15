@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="https://media1.tenor.com/m/KzV6OT78INAAAAAC/dragon-knight.gif" style="height: 35vh;">
+</div>
+
 <h1>
 Hi there!
 	<a href="https://github.com/DevCheckOG" target="_self">
@@ -53,6 +57,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
