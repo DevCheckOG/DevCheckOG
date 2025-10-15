@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://media1.tenor.com/m/KzV6OT78INAAAAAC/dragon-knight.gif" style="height: 35vh;">
+	<img src="https://media1.tenor.com/m/KzV6OT78INAAAAAC/dragon-knight.gif" style="height: 30vh;">
 </div>
 
 <h1>
@@ -57,6 +57,7 @@ Thrush is a strongly typed, machine-compiled general-purpose systems programming
 
 
   
+
 
 
 
