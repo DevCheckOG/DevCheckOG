@@ -22,7 +22,7 @@ I am a computer engineering student recently with a previous self-taught backgro
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
 
-The Thrush Programming Language is a strongly typed, machine-compiled general-purpose systems programming language. It integrates native assembler support. Built from scratch on top of LLVM and GCC, it combines optimized performance with portability, ideal for software where speed and stability are needed.
+The Thrush Programming Language is a statically typed, machine-compiled general-purpose systems programming language. It integrates native assembler support. Built from scratch on top of LLVM and GCC, it combines optimized performance with portability, ideal for software where speed and stability are needed.
 
 <div align="center">
 	<h3 align="center">
