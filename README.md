@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/DevCheckOG/DevCheckOG/blob/master/brother.gif">
+	<img src="https://media1.tenor.com/m/KzV6OT78INAAAAAC/dragon-knight.gif">
 </div>
 
 <h1>
@@ -57,6 +57,7 @@ The Thrush Programming Language is a statically typed, machine-compiled general-
 
 
   
+
 
 
 
