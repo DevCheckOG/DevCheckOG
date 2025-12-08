@@ -18,18 +18,6 @@ I am a computer engineering student recently with a previous self-taught backgro
 - I like research hardware/software stuff.
 - I do compilers for hobby.
 
-## Side Projects
-
-<img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Logo" style="width: 100%; height: 100%;">
-
-The Thrush Programming Language is a general-purpose, machine-compiled, statically typed systems programming language, ideal for software that requires fast, accurate, verbose code.
-
-<div align="center">
-	<h3 align="center">
-		<a target="_blank" href="https://github.com/thrushlang">Thrush Programming Language</a>
-	</h3>
-</div>
-
 ## Github Statistics
 
 <div align="center">
@@ -57,6 +45,7 @@ The Thrush Programming Language is a general-purpose, machine-compiled, statical
 
 
   
+
 
 
 
