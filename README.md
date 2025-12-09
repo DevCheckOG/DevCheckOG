@@ -22,7 +22,7 @@ I am a computer engineering student recently with a previous self-taught backgro
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 100%;">
 
-The Thrush Programming Language. A general-purpose, statically typed systems programming language for writing verbose, precise, and fast code. Developed from scratch, using only code generators such as GCC and LLVM to produce optimal machine code for various targets and enable cross-compilation.
+The Thrush Programming Language. A general-purpose, statically typed systems programming language for writing verbose, precise, and fast code. Developed from scratch, using only code generators such as GCC and LLVM to produce optimal machine code for various targets and enable cross-compilation out of the box.
 
 <div align="center">
 	<h3 align="center">
@@ -57,6 +57,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 
   
+
 
 
 
