@@ -2,13 +2,6 @@
 	<img src="https://media1.tenor.com/m/KzV6OT78INAAAAAC/dragon-knight.gif">
 </div>
 
-<h1>
-Hi there!
-	<a href="https://github.com/DevCheckOG" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-
 ## Side Projects
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 100%;">
@@ -48,6 +41,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 
   
+
 
 
 
