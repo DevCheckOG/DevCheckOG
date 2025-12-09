@@ -9,15 +9,6 @@ Hi there!
 	</a>
 </h1>
 
-## About me
-
-Hello!👋 Welcome to my GitHub profile.
-
-I am a computer engineering student recently with a previous self-taught background.
-
-- I like research hardware/software stuff.
-- I do compilers for hobby.
-
 ## Side Projects
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 100%;">
@@ -57,6 +48,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 
   
+
 
 
 
