@@ -1,7 +1,3 @@
-<div align="center">
-	<img src="https://media1.tenor.com/m/KzV6OT78INAAAAAC/dragon-knight.gif">
-</div>
-
 ## Side Projects
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-fullname.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 100%;">
@@ -41,6 +37,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 
   
+
 
 
 
