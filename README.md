@@ -6,7 +6,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 <div align="center">
 	<h3 align="center">
-		<a target="_blank" href="https://github.com/thrushlang">> Thrush Programming Language <</a>
+		<a target="_blank" href="https://github.com/thrushlang">Thrush Programming Language</a>
 	</h3>
 </div>
 
