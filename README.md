@@ -1,6 +1,6 @@
 ## Side Projects
 
-<img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-logo-name.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 100%;">
+<img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-logo-name-edge-borders.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 40%;">
 
 The Thrush Programming Language. A general-purpose, statically typed systems programming language for writing verbose, accurate, and fast code. Developed from scratch, using only code generators such as GCC and LLVM to produce optimal machine code for various targets and enable cross-compilation out of the box.
 
@@ -37,6 +37,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 
   
+
 
 
 
