@@ -1,4 +1,4 @@
-## Side Projects
+## One of my side projects
 
 <img src="https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-logo-name-edge-borders.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 40%;">
 
@@ -37,6 +37,7 @@ The Thrush Programming Language. A general-purpose, statically typed systems pro
 
 
   
+
 
 
 
