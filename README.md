@@ -1,6 +1,6 @@
 ## One of my side projects
 
-<img src="https://github.com/thrustlang/.github/blob/main/assets/logos/thrushlang-logo-name-edge-borders.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 40%;">
+<img src="https://github.com/thrustlang/.github/blob/main/assets/logos/thrustlang-logo-name.png" alt="Thrush Programming Language Logo" style="width: 100%; height: 40%;">
 
 The Thrust Programming Language. A general-purpose, statically typed systems programming language for writing verbose, accurate, and fast code. Developed from scratch, using only code generators such as GCC and LLVM to produce optimal machine code for various targets and enable cross-compilation out of the box.
 
@@ -9,6 +9,7 @@ The Thrust Programming Language. A general-purpose, statically typed systems pro
 		<a target="_blank" href="https://github.com/thrustlang">> Thrust Programming Language</a>
 	</h3>
 </div>
+
 
 
 
